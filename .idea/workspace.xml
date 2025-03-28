@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="690529e9-ef23-42c3-bfd5-b17e6765685d" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/firstApp/routeexc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstApp/routeexc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/src/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/src/assets/splash_android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/src/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +94,7 @@
       <workItem from="1743076261611" duration="12000" />
       <workItem from="1743078980498" duration="19000" />
       <workItem from="1743159668890" duration="10676000" />
-      <workItem from="1743182948565" duration="3420000" />
+      <workItem from="1743182948565" duration="3782000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -110,7 +112,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743167217656</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1743186987722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743186987722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1743187128077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743187128077</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1743187261347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743187261347</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
