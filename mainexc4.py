@@ -16,9 +16,9 @@ def main(page: ft.Page, txt_resultado=None):
         if data_nascimento.month > data_atual.month:
             idade = idade - 1
         if int(idade) >= 10:
-            txt_resultado.value = "Voce é maior de idade"
+            txt_resultado.value = f'Voce tem {idade} anos e é maior de idade'
         else:
-            txt_resultado.value = "Voce é menor de idade"
+            txt_resultado.value = f'Voce tem {idade} anos e é menor de idade'
         page.update()
 
     input_data_nas = ft.TextField(label="Data de nascimento ", hint_text="Digite a data de nascimento: ")
