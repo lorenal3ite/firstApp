@@ -33,10 +33,10 @@ def main(page: Page):
                     "/segunda",
                     [
                         AppBar(title=Text("Vamos lá"), bgcolor=Colors.SECONDARY_CONTAINER),
-                        Text(value=f' Titulo: {input_titulo.value},'
-                                   f' Descriçao: {input_descricao.value}, '
-                                   f'Categoria: {input_categoria.value},'
-                                   f' Autor: {input_autor.value}'),
+                        Text(value=f'TITULO: {input_titulo.value}'),
+                        Text(value= f'DESCRICAO: {input_descricao.value}'),
+                        Text(value= f'CATEGORIA: {input_categoria.value}'),
+                        Text(value=f'AUTOR: {input_autor.value}'),
                     ],
                 )
             )

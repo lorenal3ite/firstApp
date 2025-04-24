@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="690529e9-ef23-42c3-bfd5-b17e6765685d" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/firstApp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/pyproject.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/assets/splash_android.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/src/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routeexc2.py" beforeDir="false" afterPath="$PROJECT_DIR$/routeexc2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lista.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mainexc1.executor": "Run",
     "Python.mainexc2.executor": "Run",
@@ -68,7 +66,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -95,6 +93,11 @@
       <workItem from="1743078980498" duration="19000" />
       <workItem from="1743159668890" duration="10676000" />
       <workItem from="1743182948565" duration="3782000" />
+      <workItem from="1743677139434" duration="13668000" />
+      <workItem from="1744282168201" duration="864000" />
+      <workItem from="1744305571180" duration="74000" />
+      <workItem from="1744372460577" duration="49000" />
+      <workItem from="1745499322245" duration="2604000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -153,7 +156,8 @@
     <SUITE FILE_PATH="coverage/firstApp$main.coverage" NAME="main Coverage Results" MODIFIED="1743160554273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/firstApp$route1.coverage" NAME="route1 Coverage Results" MODIFIED="1743185553062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/firstApp$routeexc1.coverage" NAME="routeexc1 Coverage Results" MODIFIED="1743186161800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/firstApp" />
-    <SUITE FILE_PATH="coverage/firstApp$mainexc1.coverage" NAME="mainexc1 Coverage Results" MODIFIED="1743166416029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstApp$mainexc1.coverage" NAME="mainexc1 Coverage Results" MODIFIED="1743680212862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/firstApp$lista.coverage" NAME="lista Coverage Results" MODIFIED="1745499894070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/firstApp$mainexc3.coverage" NAME="mainexc3 Coverage Results" MODIFIED="1743166519886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
