@@ -32,7 +32,7 @@ if "cadeira" in objetos == False:
     objetos.append("banco")
 elif "cadeira" in objetos == True:
     objetos.remove("cadeira")
-print("objeto cadeira verificado na lista")
+print("cadeira verificada na lista")
 print("--" * 50)
 
 # Etapa 8 - Ordene a lista em ordem alfabética.
